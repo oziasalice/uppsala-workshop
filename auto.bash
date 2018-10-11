@@ -12,6 +12,7 @@ INPUT_DIR="C:/Users/ozho0001/Desktop/Carpentry_Software/data-shell/molecules"
 
 #Do not change here except you know what you are doing!
 
+#---First remove existing results
 rm -rf $RESULT_DIR
 
 mkdir $RESULT_DIR
