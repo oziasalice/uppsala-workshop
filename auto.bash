@@ -17,7 +17,7 @@ rm -rf $RESULT_DIR
 
 mkdir $RESULT_DIR
 
-touch $RESULT_DIR/length.txt
+#---My for loop code
 
 for filename in $INPUT_DIR/*.pdb
 
