@@ -10,3 +10,5 @@ This repository is publicly available. See license file for condition.
 # How to contribute
 
 # How to cite
+
+[![DOI](https://zenodo.org/badge/152606621.svg)](https://zenodo.org/badge/latestdoi/152606621)
