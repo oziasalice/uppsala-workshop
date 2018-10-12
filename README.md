@@ -2,7 +2,7 @@
 Repository to save my files from swc workshops
 
 Please try our code by clicking on :
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/oziasalice/uppsala-workshop/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/oziasalice/uppsala-workshop/master?urlpath=rstudio)
 
 This repository is publicly available. See license file for condition.
 
