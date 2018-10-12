@@ -8,5 +8,6 @@ molecules_backup
 north-pacific-gyre
 writing
        
+!data/feline-data.csv
 
 .Rproj.user
